@@ -1,0 +1,25 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.3",
+    "apollo-server-express": "^3.13.0",
+    "express": "^4.18.3",
+    "graphql": "^16.8.1",
+    "graphql-http": "^1.22.0",
+    "knex": "^3.1.0",
+    "ruru": "^2.0.0-beta.11",
+    "sqlite3": "^5.1.7"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@types/mysql": "^2.15.26"
+  }
+}
